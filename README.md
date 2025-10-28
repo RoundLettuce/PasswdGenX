@@ -1,5 +1,5 @@
 
-## A Simple Python CLI Password Generator.
+## A Simple Python3 CLI Password Generator.
 
 ---
 
